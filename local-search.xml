@@ -4,12 +4,18 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/11/02/hello-world/"/>
-    <url>/2022/11/02/hello-world/</url>
+    <title>开站纪念贴</title>
+    <link href="/2022/11/06/new-page/"/>
+    <url>/2022/11/06/new-page/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="网站结构"><a href="#网站结构" class="headerlink" title="网站结构"></a>网站结构</h3><p>2022 年 11 月 6 日，利用 Github 与 hexo 搭建了这个博客，所用的主题为 <strong>zkqiang</strong> 大佬开发的<a href="%22https://github.com/fluid-dev/hexo-theme-fluid%22">fluid</a>，在此向开发者表示感谢。</p><h3 id="网站内容"><a href="#网站内容" class="headerlink" title="网站内容"></a>网站内容</h3><p>将来主要会写一些随笔与技术知识，随笔广泛些，大体会有生活感悟，书影观后感，奇思妙想等等；技术知识主要就是大前端向，我也很菜。。。</p><h3 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h3><p>hi,朋友 我是 jasper 大学读的市场营销，IT 爱好者，目前在学习前端知识，认知有限，文章如有错误还请诸君指教，我及时修改。<br>唯愿身处同一片天空下的我们，自由、快乐、心想事成。</p>]]></content>
     
+    
+    <categories>
+      
+      <category>日常</category>
+      
+    </categories>
     
     
   </entry>
